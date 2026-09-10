@@ -1,0 +1,6 @@
+{
+  "name": "CryptoTrace",
+  "description": "Automated crypto wallet tracing prototype demonstrating multi-hop transaction tracing to known VASPs, graph visualization, AI forensic summary, interactive chat box, and BNSS Section 94 freeze report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
